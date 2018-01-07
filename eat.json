@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "Name": "偷偷 Toutou Cuisine",
+    "pic": "Toutou.jpg",
+    "title": "小山園抹茶戚風蛋糕 $220",
+    "department": "台中市",
+    "address": "台中市西區精誠二街5號1樓",
+    "time": "平日13:00～19:00、週末12:00～20:00",
+    "cellPhone": "04-23108102",
+    "picture": "Toutou.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "藍箱處Blue Box分子冰淇淋",
+    "pic": "BlueBox.jpg",
+    "title": "美人魚冰淇淋 $100",
+    "department": "台中市",
+    "address": "台中市北區一中街173號（173巷弄廣場）",
+    "time": "平日14:00-21:00、週末13:30-22:00、週二公休",
+    "cellPhone": "0955-132-267",
+    "picture": "BlueBox.jpg"
+  },
+  {
+    "id": 3,
+    "Name": "逸職人洋食堂",
+    "pic": "Yi.jpg",
+    "title": "日本鮮奶泥 $100",
+    "department": "台南市",
+    "address": "台南市東橋十街118號",
+    "time": "10:30-13:30、17:00-20:30",
+    "cellPhone": "06-302783",
+    "picture": "Yi.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "福島壽司研究室",
+    "pic": "Fukushima.jpg",
+    "title": "福島壽司桶 ?? 500 (附味增湯)",
+    "department": "台南市",
+    "address": "台南市東區林森路二段 28號",
+    "time": "10:30~14:00  16:30~19:30",
+    "cellPhone": "06-2008555",
+    "picture": "Fukushima.jpg"
+  },
+  {
+    "id": 5,
+    "Name": "奇維奇娃 - Cheevit Cheeva Taipei",
+    "pic": "Cheevit.jpg",
+    "title": "巧克力熔岩雪冰（獨享版）$190",
+    "department": "台北市",
+    "address": "台北市光復南路240巷23號",
+    "time": "12:00 - 21:00",
+    "cellPhone": "02-27769055",
+    "picture": "Cheevit.jpg"
+  },
+  {
+    "id": 6,
+    "Name": "果家GOU JIA Fruit & Juice 新竹西大店",
+    "pic": "GOU.jpg",
+    "title": "草莓雞雞叫 $230",
+    "department": "新竹市",
+    "address": "新竹市東區西大路370號",
+    "time": "10:30 - 22:00",
+    "cellPhone": "03-5220041",
+    "picture": "GOU.jpg"
+  },
+  {
+    "id": 7,
+    "Name": "阿美姨的古早古味",
+    "pic": "am.jpg",
+    "title": "古早味綜合飲$50",
+    "department": "新竹市",
+    "address": "新竹市東區東門街132號?",
+    "time": "二~五11:30-19:00；假日12:00-19:00(週一公休)",
+    "cellPhone": "0966-232986",
+    "picture": "am.jpg"
+  },
+  {
+    "id": 8,
+    "Name": "Mar桑唐揚?本舖",
+    "pic": "Mar.jpg",
+    "title": "主廚炸雞+黃金脆薯+鮮果沙瓦$250",
+    "department": "台北市",
+    "address": "台北市大同區赤峰街49巷25號",
+    "time": "每日12:00-21:00(週一公休)",
+    "cellPhone": "02-2550-6118",
+    "picture": "Mar.jpg"
+  },
+  {
+    "id": 9,
+    "Name": "屋莎鬆餅屋",
+    "pic": "us.jpg",
+    "title": "莓果塔冰淇淋鬆餅$310",
+    "department": "台中市",
+    "address": "台中市西屯區台灣大道三段251號",
+    "time": "11:00–22:00",
+    "cellPhone": "04-2254-4526",
+    "picture": "us.jpg"
+  },
+  {
+    "id": 10,
+    "Name": "手在比薩",
+    "pic": "Pizza.jpg",
+    "title": "牛肉丸深盤Pizza 6’ $666",
+    "department": "嘉義市",
+    "address": "嘉義市西區忠義街129-1號",
+    "time": "11:30–14:30, 17:00–21:30",
+    "cellPhone": "?05-223-1995",
+    "picture": "Pizza.jpg"
+  },
+  {
+    "id": 11,
+    "Name": "Lady Lobster 龍蝦小姐",
+    "pic": "Lady.jpg",
+    "title": "蒜香辣椒橄欖油龍蝦義大利麵 $880",
+    "department": "台中市",
+    "address": "台中市永春東七路498號",
+    "time": "11:30–14:30, 17:30–20:30、週一公休",
+    "cellPhone": "0912-706-688",
+    "picture": "Lady.jpg"
+  },
+  {
+    "id": 12,
+    "Name": "蘑菇pasta",
+    "pic": "pasta.jpg",
+    "title": "黑糖珍珠奶茶舒芙蕾 $168",
+    "department": "台中市",
+    "address": "台中市龍井區台灣大道五段三巷62弄22號",
+    "time": "11:00-21:30",
+    "cellPhone": "04-26317115",
+    "picture": "pasta.jpg"
+  }
+]
